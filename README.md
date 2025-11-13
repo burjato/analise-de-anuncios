@@ -49,13 +49,14 @@ Essa exploração inicial fornece a direção estratégica necessária antes de 
 
 ---
 
-## 🗂 Estrutura do Repositório
+## 🗂 Estrutura do Repositório``
+```
 📂 analise-de-anuncios/
 │
 ├── 📊 analise de anuncios.pbix
 ├── 📄 README.md
 └── dados-de-anuncios.xlsx
-
+```
 ## ⚙️ Ferramentas Utilizadas
 
 - **Microsoft Power BI** – Modelagem de dados, visualizações e relatórios interativos  
