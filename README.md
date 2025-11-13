@@ -56,5 +56,18 @@ Essa exploração inicial fornece a direção estratégica necessária antes de 
 ├── 📄 README.md
 └── dados-de-anuncios.xlsx
 
+## ⚙️ Ferramentas Utilizadas
 
+- **Microsoft Power BI** – Modelagem de dados, visualizações e relatórios interativos  
+- **Excel / CSV** – Base de dados dos anúncios de emprego  
+- **GitHub** – Controle de versão e documentação do projeto  
+
+---
+
+## 👤 Autor
+
+**Thiago Burjato**  
+Analista de dados  
+📧 Contato: burjato@alumni.usp.br  
+🌐 https://github.com/burjato
 
