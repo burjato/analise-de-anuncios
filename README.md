@@ -28,8 +28,7 @@ Como analista da **Out-of-the-Box Analytics**, suas responsabilidades foram:
 Os três KPIs selecionados representam métricas amplamente utilizadas no setor para avaliar o desempenho e a eficiência de campanhas de anúncios como: 
 
 - **Custo por Clique (CPC)**  
-- **Custo por Candidatura (CPA)**  
-- **Taxa de Conversão (Clique → Candidatura → Contratação)**  
+- **Custo por Candidatura (CPA)**   
 
 Cada KPI foi explorado no Power BI utilizando visuais interativos para identificar padrões de desempenho, comparar fontes de tráfego e determinar onde a Metro Staffing pode estar gastando em excesso ou investindo pouco.
 
